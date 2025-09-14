@@ -1,26 +1,25 @@
 name: Update GitHub Stats
 
+# Run daily and also allow manual triggering
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs daily at midnight
-  workflow_dispatch:       # allows manual run
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
+  workflow_dispatch:       # allows manual trigger
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Check out the repository
       - uses: actions/checkout@v3
 
-      - name: Generate stats
+      # Step 2: Generate GitHub stats SVGs
+      - name: Generate GitHub Stats
         run: |
+          # Main GitHub stats (includes private commits)
           curl -H "Authorization: token ${{ secrets.GH_TOKEN }}" \
           "https://github-readme-stats.vercel.app/api?username=AhmadWahebArifi&show_icons=true&theme=radical&count_private=true" \
           -o stats.svg
 
-      - name: Commit stats
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add stats.svg
-          git commit -m "Update GitHub stats"
-          git push
+          # Top languages graph
