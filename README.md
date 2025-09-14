@@ -38,8 +38,7 @@ I'm a passionate software developer working on full-stack web development, open-
 ---
 
 ## 🏆 Projects
-- [Portfolio](https://github.com/AhmadWahebArifi/portfolio) – React + Node.js  
-- [KPU Website](https://github.com/AhmadWahebArifi/kpu-website) – University project  
+- [Portfolio](https://github.com/AhmadWahebArifi/Portfolio-Project) – React + Node.js  
 - [Open-source Contributions](https://github.com/AhmadWahebArifi?tab=repositories&q=&type=source)  
 
 ---
