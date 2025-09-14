@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ahmad 👋
 
-<!--
-**AhmadWahebArifi/AhmadWahebArifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+- My portfolio project in React + Node.js
+- Open-source contributions
+- Kabul Polytechnique University Website
+- Kabul Polytechnique University MIS
+- Close-source contributions
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** JavaScript, Python, HTML, CSS , C++ ,JAVA ,PHP
+- **Frameworks:** React, Node.js, Express ,Laravel , Tailwindcss, Bootstarp,
+- **Tools:** Git, GitHub, VS Code, Code Block, Cursor 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadWahebArifi&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- Email: example@gmail.com
+- LinkedIn: [AhmadNezami](https://linkedin.com/in/AhmadNezami)
