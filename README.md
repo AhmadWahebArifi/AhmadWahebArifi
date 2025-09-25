@@ -12,37 +12,59 @@ I'm a passionate software developer working on full-stack web development, open-
 
 ---
 
-## 💻 Skills
+# 🌐 Web & Software Developer | Ahmad Waheb Arifi 
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
+ Hi, I’m Ahmad Waheb Arifi — a dedicated Full-Stack Web & Mobile App Developer passionate about crafting modern, scalable, and user-friendly applications.
+ My journey began with Web Development, and over time I grew into Backend Systems, Mobile Applications, and diverse Programming Languages, constantly expanding my skills to build impactful digital solutions.
 
 ---
 
-## 🏆 Projects
-- [Portfolio](https://github.com/AhmadWahebArifi/Portfolio-Project) – React + Node.js  
-- [Open-source Contributions](https://github.com/AhmadWahebArifi?tab=repositories&q=&type=source)  
+🌐 Full-Stack Development (My Foundation)
+I began my coding journey by building responsive websites with HTML, CSS, and JavaScript.
+Over time, I expanded into modern frontend frameworks like React, TypeScript, and TailwindCSS, mastering clean UI development.
+On the backend, I leveled up with Laravel and Node.js, integrating REST APIs and databases such as MySQL and MongoDB — shaping me into a well-rounded Full-Stack Developer.
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmadArifi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadwahebarifi@gmail.com)
+## ⚙️ Backend & Databases (Power Behind Apps)
+I specialize in **Laravel** and **Node.js**, with strong knowledge of **REST APIs** and databases like **MySQL** and **MongoDB**.  
+Building **secure, fast, and scalable backends** is something I truly enjoy.
+
+---
+
+## 💻 Programming Languages (Problem-Solving Tools)
+From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple languages depending on the project requirements.
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=AhmadWahebArifi&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadWahebArifi&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadWahebArifi&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Contribution Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmadWahebArifi&theme=tokyonight)  
+
+---
+
+## 🔢 Commit & Profile Counters
+![Profile views](https://komarev.com/ghpvc/?username=AhmadWahebArifi&color=blueviolet)  
+![Commit Activity](https://github-contributor-stats.vercel.app/api?username=AhmadWahebArifi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/AhmadWahebArifi/AhmadWahebArifi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌍 Connect with Me
+- 💼 [LinkedIn](Ahmad Arifi)   
+
+
