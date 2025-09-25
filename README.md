@@ -58,12 +58,6 @@ From **C & C++ fundamentals** to **Java, Python, and C#**, I use multiple langua
 ![Commit Activity](https://github-contributor-stats.vercel.app/api?username=AhmadWahebArifi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/AhmadWahebArifi/AhmadWahebArifi/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](Ahmad Arifi)   
 
