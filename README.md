@@ -4,8 +4,8 @@ I'm a passionate software developer working on full-stack web development, open-
 
 ---
 
-## 🔭 Current Projects
-- **Portfolio:** React + Node.js projects  
+## 🔭 Current Projects 
+- **Shipsmart ( MIS For Cargos) :** React + Node.js projects  
 - **Kabul Polytechnic University Website & MIS**  
 - **Open-source contributions**  
 - **Close-source professional projects**
